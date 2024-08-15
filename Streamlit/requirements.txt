@@ -1,6 +1,0 @@
-streamlit
-opencv-python
-mediapipe
-numpy
-requests
-openai==0.28.0
