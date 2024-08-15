@@ -1,0 +1,8 @@
+streamlit
+requests
+opencv-python-headless
+Pillow
+gradio_client
+uvicorn
+fastapi
+python-multipart
