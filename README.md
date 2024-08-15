@@ -31,26 +31,35 @@ Before running this project, ensure you have the following installed:
 ```bash
 git clone https://github.com/yourusername/anima-ai.git
 cd anima-ai
+```
+ ### 2. Go to the Streamlit directory and Fastapi Directory
 
-### 2. Go to the Streamlit directory and Fastapi Directory
-##### Streamlit
+#### Streamlit
 Create a virtual environment
-python -m venv venv
+```bash
+python -m venv venv```
 Activate the virtual environment
-venv\Scripts\activate
+```bash
+venv\Scripts\activate```
 Install requirements
-pip install -r requirements.txt
+```bash
+pip install -r requirements.txt```
 Start streamlit server
-streamlit run temp.py
+```bash
+streamlit run temp.py```
 
 ##### FastAPI
 Create a virtual environment
-python -m venv venv
+```bash
+python -m venv venv```
 Activate the virtual environment
-venv\Scripts\activate
+```bash
+venv\Scripts\activate```
 Install requirements
-pip install -r requirements.txt
+```bash
+pip install -r requirements.txt```
 Start FastApi server
-uvicorn backend2:app --reload
+```bash
+uvicorn backend2:app --reload```
 
 You are all set!!
