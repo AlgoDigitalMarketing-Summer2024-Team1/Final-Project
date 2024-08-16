@@ -6,6 +6,9 @@ https://codelabs-preview.appspot.com/?file_id=1fHuGWmN9732xF4Ji26UGLFjRi00PhTNXT
 Link To Codelabs Final Presentation: 
 https://codelabs-preview.appspot.com/?file_id=1NRmxaS3stuKiR7zLzvo4bAdQ6Suobo8QTOXK4RPAyqI/edit#0
 
+Link To Demo Video:
+https://drive.google.com/file/d/1SOfk_XPKlnxiG9kLEnKy0pYbbWYFmh9g/view?usp=sharing
+
 # Anima AI
 
 Anima AI is an application that allows users to upload a video, extract frames, and generate images using a pre-trained model hosted on a Gradio client. The project utilizes FastAPI for backend frame extraction and Streamlit for the frontend interface, enabling seamless interaction with the AI model.
